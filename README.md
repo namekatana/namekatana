@@ -1,16 +1,28 @@
-## Hi there 👋
+# Vadim
+**Full-stack Developer**
 
-<!--
-**namekatana/namekatana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Stack
+* **Web:** React / Vite / TypeScript / Astro / JavaScript
+* **Backend:** Python / FastAPI / Aiogram
+* **Styling:** Tailwind CSS / Framer Motion / CSS3 / HTML5
+* **Database:** PostgreSQL / MongoDB / NoSQL (Cypher)
+* **Cloud & DevOps:** AWS / Google Cloud / Docker / Git
+* **AI:** Prompt Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Profile
+* **Focus:** High-performance web applications and automated systems.
+* **Languages:** English (C1) / Ukrainian (Native).
+* **Age:** 18.
+
+---
+
+### Capabilities
+* Architecting scalable Telegram bots.
+* Building modern interfaces with motion design.
+* Cloud infrastructure management and deployment.
+
+---
