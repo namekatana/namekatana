@@ -5,7 +5,7 @@ Full-stack Developer. Building scalable web applications and automated systems.
 **Stack**
 * Frontend: React, TypeScript, Astro, Tailwind
 * Backend: Python, FastAPI, Aiogram
-* Database: PostgreSQL, MongoDB, Cypher
+* Database: PostgreSQL, MongoDB
 * Infrastructure: AWS, Google Cloud, Docker
 
 **Focus**
