@@ -1,28 +1,16 @@
 # Vadim
-**Full-stack Developer**
 
----
+Full-stack Developer. Building scalable web applications and automated systems.
 
-### Stack
-* **Web:** React / Vite / TypeScript / Astro / JavaScript
-* **Backend:** Python / FastAPI / Aiogram
-* **Styling:** Tailwind CSS / Framer Motion / CSS3 / HTML5
-* **Database:** PostgreSQL / MongoDB / NoSQL (Cypher)
-* **Cloud & DevOps:** AWS / Google Cloud / Docker / Git
-* **AI:** Prompt Engineering
+**Stack**
+* Frontend: React, TypeScript, Astro, Tailwind
+* Backend: Python, FastAPI, Aiogram
+* Database: PostgreSQL, MongoDB, Cypher
+* Infrastructure: AWS, Google Cloud, Docker
 
----
+**Focus**
+* Complex Telegram bots
+* Modern interfaces & motion design
+* Cloud deployment & architecture
 
-### Profile
-* **Focus:** High-performance web applications and automated systems.
-* **Languages:** English (C1) / Ukrainian (Native).
-* **Age:** 18.
-
----
-
-### Capabilities
-* Architecting scalable Telegram bots.
-* Building modern interfaces with motion design.
-* Cloud infrastructure management and deployment.
-
----
+EN (C1) • UA (Native)
