@@ -1,16 +1,7 @@
 # Vadim
 
-Full-stack Developer. Building scalable web applications and automated systems.
+Founder of [Corten](https://corten-dev.vercel.app/). Full-stack developer.
 
-**Stack**
-* Frontend: React, TypeScript, Astro, Tailwind
-* Backend: Python, FastAPI, Aiogram
-* Database: PostgreSQL, MongoDB
-* Infrastructure: AWS, Google Cloud, Docker
+Python · TypeScript · Rust · React · Svelte · FastAPI · Docker · AWS
 
-**Focus**
-* Complex Telegram bots
-* Modern interfaces & motion design
-* Cloud deployment & architecture
-
-EN (C1) • UA (Native)
+Ukraine · English C1
