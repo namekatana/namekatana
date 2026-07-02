@@ -1,4 +1,4 @@
-# Vadim
+# Vadym
 
 Software Engineer. Building scalable SaaS, B2B & complex bots.
 
