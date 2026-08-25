@@ -1,7 +1,9 @@
-# Vadym
+# Vadym Morozov
 
-Software Engineer. Building scalable SaaS, B2B & complex bots.
+Full-stack engineer. I build B2B SaaS and Telegram products with **FastAPI**, **React**, and **TypeScript**.
 
-Python · TypeScript · Rust · React · Svelte · FastAPI · Docker · AWS
+Kyiv, Ukraine · English C1 · Open to remote work
 
-Ukraine · English C1
+Python · TypeScript · FastAPI · React · PostgreSQL · Redis · Telegram
+
+[LinkedIn](https://www.linkedin.com/in/vadym-morozov/)
