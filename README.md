@@ -1,7 +1,5 @@
 # Vadym Morozov
 
-Full-stack engineer. I build B2B SaaS and Telegram products with **FastAPI**, **React**, and **TypeScript**.
+Software engineer. Kyiv.
 
-Kyiv, Ukraine · English C1
-
-Python · TypeScript · FastAPI · React · PostgreSQL · Redis · Telegram
+Python, TypeScript, FastAPI, React.
